@@ -35,4 +35,4 @@
 ## Notes
 
 I've deployed the backend of this to render.com so if you were to just clone this,
-you can just use the frontend (client) portion of this project and it should work without you having to setup the backend.
+you can just use the frontend (client) portion of this project and it should work without you having to setup the backend OR check out the deployed version [here](https://johnson-tech-ai-tshirt.netlify.app/)
